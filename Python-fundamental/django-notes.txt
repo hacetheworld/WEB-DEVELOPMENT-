@@ -1,0 +1,8 @@
+Best practise to use server to send data and generate html on the front end using react or angular . 
+django :
+	it provied cool features like admin panel, authentication pacakge ,security 
+
+
+Django tips:
+1 create virtual env first
+2.pipenv shell (to activate virtual env)
