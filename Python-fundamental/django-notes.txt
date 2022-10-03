@@ -5,4 +5,5 @@ django :
 
 Django tips:
 1 create virtual env first
-2.pipenv shell (to activate virtual env)
+2.pipenv shell (to activate virtual env) or set vscode enterpreteer path so taht it automatically activate
+
